@@ -1,0 +1,32 @@
+﻿  SelectionSort.c
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\selectionsort.c(70): warning C4098: 'selectionSort': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\selectionsort.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\selectionsort.c(27): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\selectionsort.c(30): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+  QuickSort.c
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\quicksort.c(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\quicksort.c(66): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\quicksort.c(69): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+  DataSort.c
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\datasort.c(26): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\datasort.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\datasort.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  BubbleSort.c
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\bubblesort.c(65): warning C4098: 'bubbleSort': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\bubblesort.c(22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\bubblesort.c(26): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ggrr1\documents\visual studio 2017\projects\datasort\datasort\bubblesort.c(29): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  DataSort.vcxproj -> C:\Users\ggrr1\Documents\Visual Studio 2017\Projects\DataSort\Debug\DataSort.exe
+  DataSort.vcxproj -> C:\Users\ggrr1\Documents\Visual Studio 2017\Projects\DataSort\Debug\DataSort.pdb (Partial PDB)
